@@ -1,4 +1,4 @@
-# imersao-de-dados-com-python
+# Imersão de dados com Python
 Repositório contendo projetos, análises e notebooks desenvolvidos durante a Imersão de Dados da Alura 👩🏻‍💻
 
 
