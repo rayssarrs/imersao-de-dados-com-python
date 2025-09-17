@@ -23,9 +23,7 @@ Linguagem: Python
 
 Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn
 
-Ambiente: Jupyter Notebook / Google Colab
-
-Outros: Git e GitHub para versionamento
+Ambiente: Google Colab
 
 
 🩷 Objetivo do Projeto: Transformar dados brutos em insights relevantes, utilizando boas práticas de análise e visualização, com foco na clareza, confiabilidade e aplicabilidade no contexto de negócios.
